@@ -4,8 +4,6 @@ This project aims to predict the prices of houses in Bengaluru, India, based on 
 
 ## Table of Contents
 
-- [Bengaluru House Price Prediction](#bengaluru-house-price-prediction)
-  - [Table of Contents](#table-of-contents)
   - [Dataset](#dataset)
   - [Data Preprocessing](#data-preprocessing)
   - [Feature Engineering](#feature-engineering)
@@ -63,6 +61,9 @@ Example usage:
 ```python
 price = prediction('1st Block Jayanagar', 2, 2, 2, 1000, 'Built-up  Area', 'Ready To Move')
 print(f"Predicted price: {price} lakhs")
+```
+```output
+173.3706060772339
 ```
 
 ## Contributing
