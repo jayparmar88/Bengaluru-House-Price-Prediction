@@ -60,9 +60,11 @@ Example usage:
 ```python
 price = prediction('1st Block Jayanagar', 2, 2, 2, 1000, 'Built-up  Area', 'Ready To Move')
 print(f"Predicted price: {price} lakhs")
+
 Predicted price: 173.3706060772339 lakhs
 ```
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
