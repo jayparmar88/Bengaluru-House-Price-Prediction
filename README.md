@@ -16,7 +16,7 @@ This project aims to predict the prices of houses in Bengaluru, India, based on 
 
 The project uses the "Bengaluru House Data" dataset, which contains information about houses in Bengaluru, including their location, area, number of bedrooms, bathrooms, and the corresponding sale prices. The dataset is available in the `Bengaluru_House_Data.csv` file.
 
-  - Dataset link: [Beagaluru-house-data](#https://www.kaggle.com/datasets/jayparmar0109/beagaluru-house-data)
+  - Dataset link: [Beagaluru house data](#https://www.kaggle.com/datasets/jayparmar0109/beagaluru-house-data)
 
 ## Data Preprocessing
 
